@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "question": "What is the date of Kuwait's independecy?",
+    "option1": 1959,
+    "option2": 1960,
+    "option3": 1961,
+    "option4": 1962,
+    "answer": 1961
+  },
+
+  {
+    "id": 2,
+    "question": "101 X 191 =",
+    "option1": 18121,
+    "option2": 19291,
+    "option3": 20255,
+    "option4": 25111,
+    "answer": 19291
+  },
+
+  {
+    "id": 3,
+    "question": "Who is the first Kuwait's president?",
+    "option1": "Jaber AlAhmad",
+    "option2": "Subah AlAhmad",
+    "option3": "Nawaf Alhahmad",
+    "option4": "Abudllah Alsubah",
+    "answer": "Subah AlAhmad"
+  },
+
+  {
+    "id": 4,
+    "question": "Who is the founder of Microsoft?",
+    "option1": "Bill Gates",
+    "option2": "Steve Jobs",
+    "option3": "Michel Jackson",
+    "option4": "50 Cent",
+    "answer": "Bill Gates"
+  }
+]
