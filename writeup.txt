@@ -1,0 +1,41 @@
+Quizer Project for Simplilearn.
+
+- It's a quiz for the users to solve.
+
+- There will be three four pages
+	* Homepage
+
+	* Quiz Page
+
+	* Submit (Review) Page
+
+	* Results Page
+
+
+Sprint
+
+- Features included in sprint 1:
+
+- GitHub repository to manage the project
+
+- Create a Angular App
+	* Add the following pages
+
+		* Homepage
+	
+		* Quiz Page
+	
+		* Submit (Review) Page
+
+		* Results Page
+
+
+
+- Features included in sprint 2:
+
+	* Create the routing between the pages
+
+	* Create a way to insert the grade into the result page.
+
+	* Refresh the pages with a better design using bootstrap.
+
